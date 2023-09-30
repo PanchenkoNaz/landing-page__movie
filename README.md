@@ -4,5 +4,5 @@
 - Developed first with the Mobile First methodology, then for desktop
 - Responsive for all devices
 
-Can you view [my project](https://panchenkonaz.github.io/landing-page__movie/)
+Can you view [my project](https://panchenkonaz.github.io/website__movie/)
 
